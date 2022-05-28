@@ -1,0 +1,13 @@
+Hello {{name}},
+
+How are you doing?
+
+I am Abdullah from XCompnay and I sent to you an email at {{email}} about a non-technical evaluation call.
+The purpose of this call is to get to know you and talk about your availability, overlap, and salary expectations before presenting you to clients.
+
+Please, check your email for more information or use the following link to schedule a call to complete your vetting process:
+
+Please, before our call pay attention to the following points: Stay in a quiet room at the time of our call and have a stable internet connection. Mobile phones are not allowed, please connect to the call through PC/laptop. The call will be recorded for quality assurance and to provide an excellent
+Image
+
+Have a good one {{name}}!
